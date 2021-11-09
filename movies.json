@@ -1,8 +1,13 @@
 [
-    { "id": 1, "movName": "The true cost", "isFav": false, "isDeleted": true },
-    { "id": 2, "movName": "Minimalism", "isFav": false, "isDeleted": false },
-    {"id": 3, "movName": "The social dilemma", "isFav": true, "isDeleted": false},
-    { "id": 4, "movName": "Planet earth", "isFav": true, "isDeleted": false },
-    { "id": 5, "movName": "The planet", "isFav": false, "isDeleted": false },
-    { "id": 6, "movName": "Sneakerheadz", "isFav": false, "isDeleted": false }
+  { "id": 1, "movName": "The true cost", "isFav": false, "isDeleted": true },
+  { "id": 2, "movName": "Minimalism", "isFav": true, "isDeleted": false },
+  {
+    "id": 3,
+    "movName": "The social dilemma",
+    "isFav": true,
+    "isDeleted": false
+  },
+  { "id": 4, "movName": "Planet earth", "isFav": true, "isDeleted": false },
+  { "id": 5, "movName": "The planet", "isFav": false, "isDeleted": false },
+  { "id": 6, "movName": "Sneakerheadz", "isFav": false, "isDeleted": false }
 ]
